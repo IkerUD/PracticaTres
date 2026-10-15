@@ -3,6 +3,6 @@ public class Main {
         System.out.println("=== MEGA CALCULADORA ===");
         int x = 20;
         int y = 8;
-        System.out.println(" Resultado de la resta: " + (x - y))
+        System.out.println(" Resultado de la resta: " + (x - y));
     }
 }
